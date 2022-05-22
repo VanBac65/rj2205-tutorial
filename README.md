@@ -7,6 +7,16 @@ Git tutorial
 	Vim
 	Nopated
 
+## 2. 
+
+## 3.
+
+## 4.
+
+## 5.
+
+## 6. Keo repo ve local
+	git clone ...
 
 ## 7. 
 	git status // kiem tra trang thai
